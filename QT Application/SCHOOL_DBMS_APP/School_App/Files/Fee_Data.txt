@@ -1,0 +1,50 @@
+
+---------------------------------------------------------
+ID Number : 1111
+Name : Farogh Iftekhar          Class : ten          Month : jan
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 800
+Due Fee Rs : 0.0
+Time : Fri Jul 01 19:18:49 2016
+---------------------------------------------------------
+ID Number : 1111
+Name : Farogh Iftekhar          Class : ten          Month : feb
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 800
+Due Fee Rs : 0.0
+Time : Fri Jul 01 20:50:30 2016
+---------------------------------------------------------
+ID Number : 1111
+Name : Farogh Iftekhar          Class : ten          Month : mar
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 500
+Due Fee Rs : 300.0
+Time : Fri Jul 01 20:50:30 2016
+---------------------------------------------------------
+ID Number : 1116
+Name : Zaid Jamil          Class : ten          Month : jan
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 800
+Due Fee Rs : 0.0
+Time : Thu Jul 07 16:41:49 2016
+---------------------------------------------------------
+ID Number : 1111
+Name : Farogh Iftekhar          Class : ten          Month : dec
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 800
+Due Fee Rs : 0.0
+Time : Fri Jul 08 16:29:19 2016
+---------------------------------------------------------
+ID Number : 1111
+Name : Farogh Iftekhar          Class : ten          Month : aug
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 800
+Due Fee Rs : 0.0
+Time : Mon Jul 11 18:55:07 2016
+---------------------------------------------------------
+ID Number : 1111
+Name : Farogh Iftekhar          Class : ten          Month : aug
+Total Fee  Rs : 800.0
+Submitted Fee Rs : 700
+Due Fee Rs : 100.0
+Time : Wed Jul 13 20:59:21 2016
