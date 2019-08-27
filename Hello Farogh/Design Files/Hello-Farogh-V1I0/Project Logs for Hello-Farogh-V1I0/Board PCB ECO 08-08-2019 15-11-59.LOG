@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=FB2-1
+Removed Pin From Net: NetName=GND Pin=J1-1A
+Removed Pin From Net: NetName=GND Pin=J1-1B
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=SMBJ5.0A-TR-2
+Added Pin To Net: NetName=PGND Pin=C1-1
+Added Pin To Net: NetName=PGND Pin=FB2-1
+Added Pin To Net: NetName=PGND Pin=J1-1
+Added Pin To Net: NetName=PGND Pin=J1-1A
+Added Pin To Net: NetName=PGND Pin=J1-1B
+Added Pin To Net: NetName=PGND Pin=SMBJ5.0A-TR-2
+Added Net: Name=PGND

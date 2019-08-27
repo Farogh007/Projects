@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetJ8_2 Pin=J8-2
+Added Component: Designator=D2(BAT46WJ,115)
+Added Component: Designator=D3(BAT46WJ,115)
+Added Pin To Net: NetName=NetJ8_2 Pin=D2-1
+Added Pin To Net: NetName=3V3_SW Pin=D2-2
+Added Pin To Net: NetName=NetJ8_2 Pin=D3-1
+Change Net Name : Old Net Name=NetJ8_2 New Net Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=J8-2
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=[07] - CSI-DSI & RTC Member=Component D2 BAT46WJ,115
+Added Member To Class: ClassName=[07] - CSI-DSI & RTC Member=Component D3 BAT46WJ,115

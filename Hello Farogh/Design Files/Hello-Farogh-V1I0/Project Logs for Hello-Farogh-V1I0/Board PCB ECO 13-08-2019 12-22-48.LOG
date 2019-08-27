@@ -1,0 +1,78 @@
+Removed Member From Class: ClassName=CSI Member=CAM1_CN
+Removed Member From Class: ClassName=DIFF100 Member=CAM1_CN
+Removed Member From Class: ClassName=CSI Member=CAM1_CP
+Removed Member From Class: ClassName=DIFF100 Member=CAM1_CP
+Removed Member From Class: ClassName=CSI Member=CAM1_DN0
+Removed Member From Class: ClassName=DIFF100 Member=CAM1_DN0
+Removed Member From Class: ClassName=CSI Member=CAM1_DN1
+Removed Member From Class: ClassName=DIFF100 Member=CAM1_DN1
+Removed Member From Class: ClassName=CSI Member=CAM1_DP0
+Removed Member From Class: ClassName=DIFF100 Member=CAM1_DP0
+Removed Member From Class: ClassName=CSI Member=CAM1_DP1
+Removed Member From Class: ClassName=DIFF100 Member=CAM1_DP1
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_0_N
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_0_P
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_N1
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_N
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_P1
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_P
+Removed Member From Class: ClassName=DIFF90 Member=USB1_M
+Removed Member From Class: ClassName=USB_DWN Member=USB1_M
+Removed Member From Class: ClassName=DIFF90 Member=USB2_M
+Removed Member From Class: ClassName=USB_DWN Member=USB2_M
+Removed Member From Class: ClassName=DIFF90 Member=USB3_M
+Removed Member From Class: ClassName=USB_DWN Member=USB3_M
+Removed Member From Class: ClassName=DIFF90 Member=USB4_M
+Removed Member From Class: ClassName=USB_DWN Member=USB4_M
+Change Net Name : Old Net Name=CAM1_CN New Net Name=1CAMC_N
+Change Net Name : Old Net Name=CAM1_CP New Net Name=1CAMC_P
+Change Net Name : Old Net Name=CAM1_DN0 New Net Name=1CAMD0_N
+Change Net Name : Old Net Name=CAM1_DN1 New Net Name=1CAMD1_N
+Change Net Name : Old Net Name=CAM1_DP0 New Net Name=1CAMD0_P
+Change Net Name : Old Net Name=CAM1_DP1 New Net Name=1CAMD1_P
+Change Net Name : Old Net Name=DSI1_0_N New Net Name=1DSID0_N
+Change Net Name : Old Net Name=DSI1_0_P New Net Name=1DSID0_P
+Change Net Name : Old Net Name=DSI1_N1 New Net Name=1DSID1_N
+Change Net Name : Old Net Name=DSI1_N New Net Name=1DSIC_N
+Change Net Name : Old Net Name=DSI1_P1 New Net Name=1DSID1_P
+Change Net Name : Old Net Name=DSI1_P New Net Name=1DSIC_P
+Change Net Name : Old Net Name=USB1_M New Net Name=USB1_N
+Change Net Name : Old Net Name=USB2_M New Net Name=USB2_N
+Change Net Name : Old Net Name=USB3_M New Net Name=USB3_N
+Change Net Name : Old Net Name=USB4_M New Net Name=USB4_N
+Added Differential Pair: Name=1CAMC
+Added Differential Pair: Name=1CAMD0
+Added Differential Pair: Name=1CAMD1
+Added Differential Pair: Name=1DSIC
+Added Differential Pair: Name=1DSID0
+Added Differential Pair: Name=1DSID1
+Added Differential Pair: Name=USB1
+Added Differential Pair: Name=USB2
+Added Differential Pair: Name=USB3
+Added Differential Pair: Name=USB4
+Added Member To Class: ClassName=CSI Member=Wire 1CAMC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire 1CAMC_N
+Added Member To Class: ClassName=CSI Member=Wire 1CAMC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire 1CAMC_P
+Added Member To Class: ClassName=CSI Member=Wire 1CAMD0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire 1CAMD0_N
+Added Member To Class: ClassName=CSI Member=Wire 1CAMD0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire 1CAMD0_P
+Added Member To Class: ClassName=CSI Member=Wire 1CAMD1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire 1CAMD1_N
+Added Member To Class: ClassName=CSI Member=Wire 1CAMD1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire 1CAMD1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire 1DSIC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire 1DSIC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire 1DSID0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire 1DSID0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire 1DSID1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire 1DSID1_P
+Added Member To Class: ClassName=DIFF90 Member=Wire USB1_N
+Added Member To Class: ClassName=USB_DWN Member=Wire USB1_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USB2_N
+Added Member To Class: ClassName=USB_DWN Member=Wire USB2_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USB3_N
+Added Member To Class: ClassName=USB_DWN Member=Wire USB3_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USB4_N
+Added Member To Class: ClassName=USB_DWN Member=Wire USB4_N

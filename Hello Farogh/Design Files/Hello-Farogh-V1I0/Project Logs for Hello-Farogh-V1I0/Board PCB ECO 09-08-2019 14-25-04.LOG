@@ -1,0 +1,28 @@
+Added Component: Designator=J?(67298-3090)
+Added Component: Designator=J?(67298-3090)
+Added Pin To Net: NetName=PWR2 Pin=J?-1
+Added Pin To Net: NetName=PWR4 Pin=J?-1
+Added Pin To Net: NetName=PWR3 Pin=J?-2
+Added Pin To Net: NetName=PWR5 Pin=J?-2
+Added Pin To Net: NetName=USB1_M Pin=J?-3
+Added Pin To Net: NetName=USB3_M Pin=J?-3
+Added Pin To Net: NetName=USB2_M Pin=J?-4
+Added Pin To Net: NetName=USB4_M Pin=J?-4
+Added Pin To Net: NetName=USB1_P Pin=J?-5
+Added Pin To Net: NetName=USB3_P Pin=J?-5
+Added Pin To Net: NetName=USB2_P Pin=J?-6
+Added Pin To Net: NetName=USB4_P Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-12
+Added Member To Class: ClassName=[05] - Ethernet & USB Hub Member=Component J? 67298-3090
+Added Member To Class: ClassName=[05] - Ethernet & USB Hub Member=Component J? 67298-3090

@@ -1,0 +1,25 @@
+Added Component: Designator=J4(67298-3090)
+Added Component: Designator=J5(67298-3090)
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J4-11
+Added Pin To Net: NetName=GND Pin=J4-12
+Added Pin To Net: NetName=PWR3 Pin=J4-L1
+Added Pin To Net: NetName=USB2_N Pin=J4-L2
+Added Pin To Net: NetName=GND Pin=J4-L4
+Added Pin To Net: NetName=PWR2 Pin=J4-U1
+Added Pin To Net: NetName=USB1_N Pin=J4-U2
+Added Pin To Net: NetName=USB1_P Pin=J4-U3
+Added Pin To Net: NetName=GND Pin=J4-U4
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-10
+Added Pin To Net: NetName=GND Pin=J5-11
+Added Pin To Net: NetName=GND Pin=J5-12
+Added Pin To Net: NetName=PWR5 Pin=J5-L1
+Added Pin To Net: NetName=USB4_N Pin=J5-L2
+Added Pin To Net: NetName=GND Pin=J5-L4
+Added Pin To Net: NetName=PWR4 Pin=J5-U1
+Added Pin To Net: NetName=USB3_N Pin=J5-U2
+Added Pin To Net: NetName=GND Pin=J5-U4
+Added Member To Class: ClassName=[05] - Ethernet & USB Hub Member=Component J4 67298-3090
+Added Member To Class: ClassName=[05] - Ethernet & USB Hub Member=Component J5 67298-3090

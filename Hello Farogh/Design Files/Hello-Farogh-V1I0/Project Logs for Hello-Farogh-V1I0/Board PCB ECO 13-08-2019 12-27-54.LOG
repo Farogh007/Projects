@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=DIFF90 Member=USB_DP
+Removed Member From Class: ClassName=USB_UP Member=USB_DP
+Change Net Name : Old Net Name=USB_DP New Net Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=DIFF90 Member=Wire USB_P
+Added Member To Class: ClassName=USB_UP Member=Wire USB_P

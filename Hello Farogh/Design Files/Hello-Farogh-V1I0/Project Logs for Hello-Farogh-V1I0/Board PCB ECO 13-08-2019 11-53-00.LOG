@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_N0
+Removed Member From Class: ClassName=DIFF100 Member=DSI1_P0
+Change Net Name : Old Net Name=DSI1_N0 New Net Name=DSI1_0_N
+Change Net Name : Old Net Name=DSI1_P0 New Net Name=DSI1_0_P
+Added Differential Pair: Name=DSI1_0
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI1_0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire DSI1_0_P

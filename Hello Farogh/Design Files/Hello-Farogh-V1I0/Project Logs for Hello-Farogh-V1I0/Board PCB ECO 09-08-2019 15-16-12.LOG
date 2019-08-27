@@ -1,0 +1,7 @@
+Added Component: Designator=J1(PJ-059BH)
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=PGND Pin=J1-2
+Added Pin To Net: NetName=PGND Pin=J1-3
+Added Member To Class: ClassName=[03] - Power Supply Member=Component J1 DC Jack
+Added Member To Class: ClassName=[05] - Ethernet & USB Hub Member=Component J4 67298-3090
+Added Member To Class: ClassName=[05] - Ethernet & USB Hub Member=Component J5 67298-3090

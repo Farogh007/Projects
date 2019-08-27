@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=DIFF90 Member=USB_DM
+Removed Member From Class: ClassName=USB_UP Member=USB_DM
+Change Net Name : Old Net Name=USB_DM New Net Name=USB_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USB_N
+Added Member To Class: ClassName=USB_UP Member=Wire USB_N
