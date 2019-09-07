@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDD_BRD Pin=H1-1
+Removed Pin From Net: NetName=NetC5_1 Pin=H1-2
+Removed Pin From Net: NetName=NetC8_2 Pin=H2-1
+Removed Pin From Net: NetName=VDD_REF Pin=H2-2
+Removed Pin From Net: NetName=NetC19_2 Pin=H3-1
+Removed Pin From Net: NetName=NetC18_2 Pin=H3-2
+Removed Member From Class: ClassName=[03] - Controller Member=H1
+Removed Member From Class: ClassName=[03] - Controller Member=H2
+Removed Member From Class: ClassName=[03] - Controller Member=H3

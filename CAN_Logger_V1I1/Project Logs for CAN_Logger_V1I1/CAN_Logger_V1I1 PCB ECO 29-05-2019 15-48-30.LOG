@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CAN_L Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=CAN_H Pin=J?-7
+Added Pin To Net: NetName=+12V_VIN Pin=J?-9

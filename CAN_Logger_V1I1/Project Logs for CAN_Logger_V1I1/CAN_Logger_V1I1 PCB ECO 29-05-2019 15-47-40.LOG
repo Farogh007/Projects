@@ -1,0 +1,4 @@
+Added Component: Designator=J?(DSUB1.385-2H9)
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Member To Class: ClassName=[04] - CAN Member=Component J? D Connector 9

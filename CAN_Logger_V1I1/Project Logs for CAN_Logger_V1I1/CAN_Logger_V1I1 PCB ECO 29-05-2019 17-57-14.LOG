@@ -1,0 +1,18 @@
+Added Component: Designator=L1(LED0805)
+Added Component: Designator=L2(LED0805)
+Added Component: Designator=R6(R0805)
+Added Component: Designator=R7(R0805)
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=+3V3_LDO Pin=R6-2
+Added Pin To Net: NetName=+5V_LDO Pin=R7-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R6-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R7-1
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=[03] - Controller Member=Component L1 599-0130-007F
+Added Member To Class: ClassName=[03] - Controller Member=Component L2 599-0130-007F
+Added Member To Class: ClassName=[03] - Controller Member=Component R6 220
+Added Member To Class: ClassName=[03] - Controller Member=Component R7 220

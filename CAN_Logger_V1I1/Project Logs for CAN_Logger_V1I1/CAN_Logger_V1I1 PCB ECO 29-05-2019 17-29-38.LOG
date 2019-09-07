@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDD_BRD Pin=P1-1
+Removed Pin From Net: NetName=PTA0/SWD_DIO Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=PTA1/SWD_CLK Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=RST_TGTMCU_B Pin=P1-6
+Removed Member From Class: ClassName=[03] - Controller Member=P1
+Added Component: Designator=*(Antenna)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R2-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=[03] - Controller Member=Component * Antenna
+Added Member To Class: ClassName=[03] - Controller Member=Component H1 0.1uH
+Added Member To Class: ClassName=[03] - Controller Member=Component H2 0.1uH
+Added Member To Class: ClassName=[03] - Controller Member=Component H3 4.7nH

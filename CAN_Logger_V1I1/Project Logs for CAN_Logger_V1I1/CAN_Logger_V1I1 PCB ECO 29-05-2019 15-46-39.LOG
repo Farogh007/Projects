@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAN_L Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=CAN_H Pin=J1-7
+Removed Pin From Net: NetName=+12V_VIN Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Member From Class: ClassName=[04] - CAN Member=J1
